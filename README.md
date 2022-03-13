@@ -12,9 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
-
-
 ## Overview
 
 ### Screenshot
@@ -23,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/oheneadj/QR-Code-Component)
+- Live Site URL: [Add live site URL here](https://oheneadj.github.io/QR-Code-Component/)
 
 ## My process
 
@@ -38,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [CSS-Tricks - FlexBox Guide ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [CSS-Tricks - FlexBox Guide ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - I used CSS FlexBox to arrange the components in the card vertically.
 
 
 ## Author
