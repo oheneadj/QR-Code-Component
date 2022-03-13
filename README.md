@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/oheneadj/QR-Code-Component)
-- Live Site URL: [Add live site URL here](https://oheneadj.github.io/QR-Code-Component/)
+- Solution URL: [view solution](https://github.com/oheneadj/QR-Code-Component)
+- Live Site URL: [view live site](https://oheneadj.github.io/QR-Code-Component/)
 
 ## My process
 
@@ -30,8 +30,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-
 
 ### Useful resources
 
